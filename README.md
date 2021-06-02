@@ -11,4 +11,4 @@ for of scss | scss의 반복문을 이용하여 32가지의 캐릭터 설정을 
 ___
 ___
 ### 이미지 클릭 -> 페이지 이동
-[![garo](https://github.com/Ahn-GiHwan/overwatch-characters/images/heros.png?raw=true)](https://ov-he.netlify.app/)
+[![overwatch-characters](https://github.com/Ahn-GiHwan/overwatch-characters/blob/master/images/heros.png?raw=true)](https://ov-he.netlify.app/)
